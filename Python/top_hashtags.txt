@@ -1,0 +1,6 @@
+#bulling --- 6
+#education --- 6
+#family --- 6
+#news --- 6
+#np --- 6
+#parents --- 6
